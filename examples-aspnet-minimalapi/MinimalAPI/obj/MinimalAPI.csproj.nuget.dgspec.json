@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carpe\\Desktop\\SAD\\lab2\\examples-aspnet-minimalapi\\MinimalAPI\\MinimalAPI.csproj": {}
+    "C:\\Users\\carpe\\Desktop\\lab6-api\\examples-aspnet-minimalapi\\MinimalAPI\\MinimalAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carpe\\Desktop\\SAD\\lab2\\examples-aspnet-minimalapi\\ClassLib\\ClassLib.csproj": {
+    "C:\\Users\\carpe\\Desktop\\lab6-api\\examples-aspnet-minimalapi\\ClassLib\\ClassLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carpe\\Desktop\\SAD\\lab2\\examples-aspnet-minimalapi\\ClassLib\\ClassLib.csproj",
+        "projectUniqueName": "C:\\Users\\carpe\\Desktop\\lab6-api\\examples-aspnet-minimalapi\\ClassLib\\ClassLib.csproj",
         "projectName": "ClassLib",
-        "projectPath": "C:\\Users\\carpe\\Desktop\\SAD\\lab2\\examples-aspnet-minimalapi\\ClassLib\\ClassLib.csproj",
+        "projectPath": "C:\\Users\\carpe\\Desktop\\lab6-api\\examples-aspnet-minimalapi\\ClassLib\\ClassLib.csproj",
         "packagesPath": "C:\\Users\\carpe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carpe\\Desktop\\SAD\\lab2\\examples-aspnet-minimalapi\\ClassLib\\obj\\",
+        "outputPath": "C:\\Users\\carpe\\Desktop\\lab6-api\\examples-aspnet-minimalapi\\ClassLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\carpe\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\carpe\\Desktop\\SAD\\lab2\\examples-aspnet-minimalapi\\MinimalAPI\\MinimalAPI.csproj": {
+    "C:\\Users\\carpe\\Desktop\\lab6-api\\examples-aspnet-minimalapi\\MinimalAPI\\MinimalAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carpe\\Desktop\\SAD\\lab2\\examples-aspnet-minimalapi\\MinimalAPI\\MinimalAPI.csproj",
+        "projectUniqueName": "C:\\Users\\carpe\\Desktop\\lab6-api\\examples-aspnet-minimalapi\\MinimalAPI\\MinimalAPI.csproj",
         "projectName": "MinimalAPI",
-        "projectPath": "C:\\Users\\carpe\\Desktop\\SAD\\lab2\\examples-aspnet-minimalapi\\MinimalAPI\\MinimalAPI.csproj",
+        "projectPath": "C:\\Users\\carpe\\Desktop\\lab6-api\\examples-aspnet-minimalapi\\MinimalAPI\\MinimalAPI.csproj",
         "packagesPath": "C:\\Users\\carpe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carpe\\Desktop\\SAD\\lab2\\examples-aspnet-minimalapi\\MinimalAPI\\obj\\",
+        "outputPath": "C:\\Users\\carpe\\Desktop\\lab6-api\\examples-aspnet-minimalapi\\MinimalAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\carpe\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -84,8 +84,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\carpe\\Desktop\\SAD\\lab2\\examples-aspnet-minimalapi\\ClassLib\\ClassLib.csproj": {
-                "projectPath": "C:\\Users\\carpe\\Desktop\\SAD\\lab2\\examples-aspnet-minimalapi\\ClassLib\\ClassLib.csproj"
+              "C:\\Users\\carpe\\Desktop\\lab6-api\\examples-aspnet-minimalapi\\ClassLib\\ClassLib.csproj": {
+                "projectPath": "C:\\Users\\carpe\\Desktop\\lab6-api\\examples-aspnet-minimalapi\\ClassLib\\ClassLib.csproj"
               }
             }
           }
