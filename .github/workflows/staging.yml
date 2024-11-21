@@ -20,12 +20,15 @@ jobs:
 
       - name: Restore dependencies
         run: dotnet restore
+        working-directory: ./examples-aspnet-minimalapi/MinimalAPI/MinimalAPI.csproj
 
       - name: Build the application
         run: dotnet build --configuration Release
+        working-directory: ./examples-aspnet-minimalapi/MinimalAPI/MinimalAPI.csproj
 
       - name: Publish the application
         run: dotnet publish --configuration Release --output ./publish
+        working-directory: ./examples-aspnet-minimalapi/MinimalAPI/MinimalAPI.csproj
 
       - name: Create deployment artifact (zip file)
         run: zip -r app.zip ./publish
